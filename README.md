@@ -18,6 +18,7 @@ This is a case study from my portfolio, showcasing quant development skills. For
 - **Risk Management**: ATR for vol skips, Kelly for sizing (capped conservatively).
 - **Backtest**: Simulates multi-symbol portfolio growth.
 
+<img width="2850" height="1976" alt="architecture" src="https://github.com/user-attachments/assets/e3859869-38f9-4bb7-94d7-2549394edeb0" />
 
 ## Installation
 1. Clone the repo: `git clone https://github.com/yourusername/ml-futures-trading-bot-case-study.git`
