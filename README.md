@@ -18,7 +18,7 @@ This is a case study from my portfolio, showcasing quant development skills. For
 - **Risk Management**: ATR for vol skips, Kelly for sizing (capped conservatively).
 - **Backtest**: Simulates multi-symbol portfolio growth.
 
-![Diagram](https://github.com/user-attachments/assets/a9ee88f3-1f21-4d82-80e1-d7548f9567e3)
+![AI-ML-diagram-bot](https://github.com/user-attachments/assets/2e38a3e1-0b04-488c-8319-34904b497da0)
 
 
 ## Installation
