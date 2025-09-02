@@ -9,7 +9,7 @@ This repository demonstrates a machine learning-based trading strategy for futur
 - Modular design for easy extension (e.g., add new indicators).
 - Conservative risk params to emphasize safety.
 
-This is a case study from my portfolio, showcasing quant development skills. For live trading or custom versions, contact me—I've used similar bots to pass prop firm evals and generate consistent returns. **Disclaimer: This is for educational use only. Trading involves risk; past performance isn't indicative of future results. Not financial advice—consult a professional.**
+This is a case study from my portfolio, showcasing quant development skills. **Disclaimer: This is for educational use only. IP has been redacted. Trading involves risk; past performance isn't indicative of future results. Not financial advice—consult a professional.**
 
 ## Architecture
 - **Data Prep**: Fetch OHLCV from yfinance; compute features (returns, MACD diff, RSI, ATR norm, volume norm).
