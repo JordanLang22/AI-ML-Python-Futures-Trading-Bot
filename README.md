@@ -22,7 +22,7 @@ This is a case study from my portfolio, showcasing quant development skills. **D
 
 
 ## Installation
-1. Clone the repo: `git clone https://github.com/yourusername/ml-futures-trading-bot-case-study.git`
+1. Clone the repo: `git clone https://github.com/jordanlang22/AI-ML-Python-Futures-Trading-Bot.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run backtest: `python main.py` (adjust params in code).
 
